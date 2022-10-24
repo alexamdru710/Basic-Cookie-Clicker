@@ -1,0 +1,14 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+p {text-align: center;
+font-weight: bold;
+font-size: xx-large;
+color: white;
+font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+body {background-color: black;}
+
